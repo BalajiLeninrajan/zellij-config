@@ -159,8 +159,8 @@ keybinds clear-defaults=true {
         bind "Alt right" { MoveFocusOrTab "right"; }
         bind "Alt shift t" { NewTab; }
         bind "Alt w" { CloseTab; }
-        bind "Alt h" { MoveTab "left"; SwitchToMode "normal"; }
-        bind "Alt shift h" { MoveFocusOrTab "left"; }
+        bind "Alt shift h" { MoveTab "left"; SwitchToMode "normal"; }
+        bind "Alt h" { MoveFocusOrTab "left"; }
         bind "Alt j" { MoveFocus "down"; }
         bind "Alt k" { MoveFocus "up"; }
         bind "Alt l" { MoveFocusOrTab "right"; }
